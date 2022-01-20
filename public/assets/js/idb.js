@@ -84,5 +84,6 @@ getAll.onsuccess = function() {
   };
 }
 
-// listen for app coming back online
+// listen for app coming back onliness
+
 window.addEventListener('online', uploadPizza);
